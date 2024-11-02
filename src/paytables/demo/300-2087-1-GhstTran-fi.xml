@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="fi">
+<phrase key="softwareId" value="Ohjelmiston tunniste"/>
+<phrase key="transactionId" value="Tapahtuman tunniste"/>
+<phrase key="totalWins" value="Kokonaisvoitot"/>
+<phrase key="totalWager" value="Kokonaispanos"/>
+<phrase key="prize" value="Palkinto"/>
+<phrase key="stepsRevealed" value="Paljastetut vaiheet"/>
+<phrase key="stepsTotal" value="Vaiheet yhteensä"/>
+<phrase key="result" value="Tulos"/>
+<phrase key="win" value="Voitto"/>
+<phrase key="noWin" value="Ei voittoa"/>
+<phrase key="1" value="Välitön voitto 1"/>
+<phrase key="2" value="Välitön voitto 2"/>
+</translation>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="no">
+<phrase key="softwareId" value="Programvare-ID"/>
+<phrase key="transactionId" value="Transaksjons-ID"/>
+<phrase key="totalWins" value="Totale gevinster"/>
+<phrase key="totalWager" value="Totale innsatser"/>
+<phrase key="prize" value="Premie"/>
+<phrase key="stepsRevealed" value="Trinn avdekket"/>
+<phrase key="stepsTotal" value="Trinn totalt"/>
+<phrase key="result" value="Resultat"/>
+<phrase key="win" value="Gevinst"/>
+<phrase key="noWin" value="Ingen gevinst"/>
+<phrase key="1" value="Umiddelbar gevinst 1"/>
+<phrase key="2" value="Umiddelbar gevinst 2"/>
+</translation>

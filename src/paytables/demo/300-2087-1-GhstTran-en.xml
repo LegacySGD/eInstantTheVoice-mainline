@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="en">
+<phrase key="softwareId" value="Software ID"/>
+<phrase key="transactionId" value="Transaction ID"/>
+<phrase key="totalWins" value="Total Wins"/>
+<phrase key="totalWager" value="Total Wager"/>
+<phrase key="prize" value="Prize"/>
+<phrase key="stepsRevealed" value="Steps Revealed"/>
+<phrase key="stepsTotal" value="Steps Total"/>
+<phrase key="result" value="Result"/>
+<phrase key="win" value="Win"/>
+<phrase key="noWin" value="No win"/>
+<phrase key="1" value="Instant Win 1"/>
+<phrase key="2" value="Instant Win 2"/>
+</translation>

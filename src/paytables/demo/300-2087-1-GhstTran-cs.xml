@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="cs">
+<phrase key="softwareId" value="ID softwaru"/>
+<phrase key="transactionId" value="ID transakce"/>
+<phrase key="totalWins" value="Výhry celkem"/>
+<phrase key="totalWager" value="Celková sázka"/>
+<phrase key="prize" value="Výhra"/>
+<phrase key="stepsRevealed" value="Odehrané kroky"/>
+<phrase key="stepsTotal" value="Kroky celkem"/>
+<phrase key="result" value="Výsledek"/>
+<phrase key="win" value="Výhra"/>
+<phrase key="noWin" value="Žádná výhra"/>
+<phrase key="1" value="Okamžitá výhra 1"/>
+<phrase key="2" value="Okamžitá výhra 2"/>
+</translation>

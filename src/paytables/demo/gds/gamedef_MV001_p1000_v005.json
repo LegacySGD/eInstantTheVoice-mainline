@@ -1,0 +1,255 @@
+{
+  "fileFormatVersion": 18,
+  "versionFromFilename": "v005",
+  "gameType": 0,
+  "gridSize": 27,
+  "revealFileSignature": [
+    21,
+    64,
+    -16,
+    -114,
+    2,
+    -25,
+    -97,
+    -121,
+    -126,
+    -123,
+    -112,
+    -43,
+    20,
+    45,
+    110,
+    -26,
+    -91,
+    -40,
+    74,
+    71,
+    96,
+    -10,
+    -53,
+    -87,
+    -127,
+    71,
+    59,
+    34,
+    -73,
+    -110,
+    126,
+    -32,
+    86,
+    6,
+    -110,
+    -39,
+    -112,
+    -17,
+    -22,
+    88,
+    123,
+    56,
+    29,
+    18,
+    -114,
+    -57,
+    103,
+    17,
+    107,
+    26,
+    78,
+    71,
+    6,
+    109,
+    44,
+    -60,
+    19,
+    -90,
+    -75,
+    -94,
+    -87,
+    -115,
+    -44,
+    -45
+  ],
+  "bigEndian": false,
+  "playcardScanFlag": false,
+  "pricePoint": 1000,
+  "betUnits": 1,
+  "validationUnits": 1,
+  "numberOfDivisions": 27,
+  "longGameName": "Match Variable of 6",
+  "shortGameName": "MV001",
+  "vendorId": 1,
+  "internalAuditVendorId": 2,
+  "externalAuditVendorId": 0,
+  "gridMethod": 0,
+  "gridTrigger": 0,
+  "gridTriggerUnit": 0,
+  "prizes": [
+    {
+      "divisionValue": 25000000,
+      "tableValue": 25000000,
+      "winnerCount": 1,
+      "description": "6A "
+    },
+    {
+      "divisionValue": 1007500,
+      "tableValue": 1000000,
+      "winnerCount": 1,
+      "description": "6B "
+    },
+    {
+      "divisionValue": 1002000,
+      "tableValue": 100000,
+      "winnerCount": 1,
+      "description": "5C "
+    },
+    {
+      "divisionValue": 1000000,
+      "tableValue": 15000,
+      "winnerCount": 1,
+      "description": "5D "
+    },
+    {
+      "divisionValue": 107500,
+      "tableValue": 5000,
+      "winnerCount": 1,
+      "description": "4E "
+    },
+    {
+      "divisionValue": 105000,
+      "tableValue": 1000,
+      "winnerCount": 1,
+      "description": "4F "
+    },
+    {
+      "divisionValue": 102000,
+      "tableValue": 7500,
+      "winnerCount": 1,
+      "description": "IW1"
+    },
+    {
+      "divisionValue": 101000,
+      "tableValue": 2000,
+      "winnerCount": 1,
+      "description": "IW2"
+    },
+    {
+      "divisionValue": 100000,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 24500,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 22500,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 20000,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 17000,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 16000,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 15000,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 12500,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 10500,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 9500,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 8500,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 7500,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 7000,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 6000,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 5000,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 3000,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 2000,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 1000,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 0,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    }
+  ],
+  "siteId": 254,
+  "prizeDescriptionLength": 3,
+  "gameGroupNumber": 0,
+  "kenoSpotCount": 0,
+  "kenoMultiplier": false
+}

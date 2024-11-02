@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="fr">
+<phrase key="softwareId" value="ID logiciel"/>
+<phrase key="transactionId" value="ID transaction"/>
+<phrase key="totalWins" value="Total des gains"/>
+<phrase key="totalWager" value="Total des mises"/>
+<phrase key="prize" value="Prix"/>
+<phrase key="stepsRevealed" value="Sections révélées"/>
+<phrase key="stepsTotal" value="Total sections"/>
+<phrase key="result" value="Résultat"/>
+<phrase key="win" value="Gain"/>
+<phrase key="noWin" value="Aucun gain"/>
+<phrase key="1" value="Gain immédiat 1"/>
+<phrase key="2" value="Gain immédiat 2"/>
+</translation>
